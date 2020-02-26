@@ -1,0 +1,37 @@
+# Site
+name: "Damla Yayınevi"
+title: "Haydi Türkiye Kitap Okuyalim"
+description: "Haydi Türkiye Kitap Okuyalim"
+meta_description: "Kitap okuma yaşı düştükçe insanlık o kadar büyür."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: '/'
+email: 'iletisim@damlayayinevi.com.tr'
+google_analytics: 'UA-46278016-1'
+disqus: 'demowebsite'
+instagram: https://www.instagram.com/damlayayinevi/
+facebook: https://www.facebook.com/DamlaYayinevi/
+twitter: https://twitter.com/damlayayinevi
+youtube: https://www.youtube.com/user/damlayayinevi
+galeri: false
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+        
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
