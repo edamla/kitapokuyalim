@@ -6,7 +6,7 @@ meta_description: "Kitap okuma yaşı düştükçe insanlık o kadar büyür."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/'
+baseurl: ''
 email: 'iletisim@damlayayinevi.com.tr'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'

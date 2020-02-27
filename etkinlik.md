@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tanıtım
+title: Etkinliğimiz
 ---
 <div class="row">
     <div class="col-12 text-center">
