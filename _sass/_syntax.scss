@@ -95,3 +95,9 @@ h5{
 h6{
 	line-height: 2.5rem !important;
 }
+
+@media(max-width:750px){
+	#slogan{
+		font-size: 2.5rem !important;
+	}
+}
