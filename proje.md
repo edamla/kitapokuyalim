@@ -3,7 +3,7 @@ layout: page
 title: Proje Ekibi
 ---
 <div class="row">
-  <div class="col-3">
+  <div class="col-12 col-md-3">
       <div class="card m-1 ml-auto mr-auto" style="width: 17rem;">
           <img class="card-img-top" src="{{ site.baseurl }}/assets/images/damla_yayinevi.png" alt="Damla Yayınevi">
           <div class="card-body mt-5 text-center">
@@ -12,7 +12,7 @@ title: Proje Ekibi
           </div>
         </div>
   </div>
-  <div class="col-3">
+  <div class="col-12 col-md-3">
       <div class="card  m-1 ml-auto mr-auto" style="width: 17rem;">
           <img class="card-img-top" src="{{ site.baseurl }}/assets/images/damla_yayinevi.png" alt="Damla Yayınevi">
           <div class="card-body mt-5 text-center">
@@ -21,7 +21,7 @@ title: Proje Ekibi
           </div>
         </div>
   </div>
-  <div class="col-3">
+  <div class="col-12 col-md-3">
       <div class="card m-1 ml-auto mr-auto" style="width: 17rem;">
           <img class="card-img-top" src="{{ site.baseurl }}/assets/images/damla_yayinevi.png" alt="Damla Yayınevi">
           <div class="card-body mt-5 text-center">
@@ -30,7 +30,7 @@ title: Proje Ekibi
           </div>
         </div>
   </div>
-  <div class="col-3">
+  <div class="col-12 col-md-3">
       <div class="card m-1 ml-auto mr-auto" style="width: 17rem;">
           <img class="card-img-top" src="{{ site.baseurl }}/assets/images/damla_yayinevi.png" alt="Damla Yayınevi">
           <div class="card-body mt-5 text-center">
